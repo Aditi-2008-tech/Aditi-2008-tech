@@ -11,4 +11,3 @@
 - ⚡ Fun fact: I treat my learning journey like an anime training arc — leveling up each skill like it’s a new power-up:
 `HTML – mastered`
 `Java – unlocking`
-`DSA – boss level incoming`
